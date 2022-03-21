@@ -1,6 +1,6 @@
 # RandomForestAccelerator
 
-![Screenshot](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-forest/img-3.png)
+![Screenshot](https://www.researchgate.net/publication/276511609/figure/fig1/AS:633902699909126@1528145589364/Structure-of-a-random-forest-consisting-of-n-decision-trees-Nodes-were-numbered-using_W640.jpg)
 
 ## Requirements
 * **GHDL**
@@ -45,8 +45,8 @@ After this you just have to compile the test benches you want to use. For exampl
 1. scikit-learn for Random Forest Classifier 
   https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-2. Stochastic Computing for Hardware Implementationof Binarized Neural Networks  
-  https://arxiv.org/abs/1906.00915
+2. Quantization of data  
+  https://leimao.github.io/article/Neural-Networks-Quantization/
 
 3. FINN: A Framework for Fast, Scalable Binarized Neural Network Inference  
   https://arxiv.org/abs/1612.07119
