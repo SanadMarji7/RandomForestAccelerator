@@ -1,6 +1,6 @@
 # RandomForestAccelerator
 
-![bnn_acceler](https://user-images.githubusercontent.com/88595269/132109786-aab49aa2-564d-4334-88f9-b0abbc07dc69.png)
+![bnn_acceler](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fglossary%2Fdata-science%2Frandom-forest%2F&psig=AOvVaw1vk0mdhX-DquUn1ljVWfG1&ust=1647986440019000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID304Wa2PYCFQAAAAAdAAAAABAR)
 
 
 ## Requirements
