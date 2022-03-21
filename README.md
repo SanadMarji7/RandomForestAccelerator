@@ -1,6 +1,6 @@
 # RandomForestAccelerator
 
-![Screenshot](https://www.researchgate.net/publication/276511609/figure/fig1/AS:633902699909126@1528145589364/Structure-of-a-random-forest-consisting-of-n-decision-trees-Nodes-were-numbered-using_W640.jpg)
+![Screenshot](https://www.researchgate.net/publication/276511609/figure/fig1/AS:633902699909126@1528145589364/Structure-of-a-random-forest-consisting-of-n-decision-trees-Nodes-were-numbered-using.png)
 
 ## Requirements
 * **GHDL**
