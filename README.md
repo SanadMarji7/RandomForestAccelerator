@@ -12,8 +12,8 @@
 
 ### cloning repository
 
-      $ git clone https://github.com/bnna-project/bnna.git  
-      $ cd bnna  
+      $ git clone https://github.com/SanadMarji7/RandomForestAccelerator.git 
+      $ cd RandomForestAccelerator  
 
 ### compiling VHDL code and looking on wave diagrams in GTKWave
 
