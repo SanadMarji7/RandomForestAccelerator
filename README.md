@@ -3,10 +3,10 @@
 ![Screenshot](https://github.com/SanadMarji7/RandomForestAccelerator/blob/main/Random%20Forest%20Structure.png?raw=true)
 
 ## Requirements
+* **PYTHON**
 * **GHDL**
 * **GTKWave**
 * **VHDL**
-* **PYTHON**
 
 ## Quick Instruction
 
