@@ -48,5 +48,9 @@ After this you just have to compile the test benches you want to use. For exampl
 2. Quantization of data  
   https://leimao.github.io/article/Neural-Networks-Quantization/
 
-3. FINN: A Framework for Fast, Scalable Binarized Neural Network Inference  
-  https://arxiv.org/abs/1612.07119
+3. understanding Random Forests
+  https://arxiv.org/pdf/1407.7502.pdf
+  
+4. different implementation of decision Trees on vivado
+  https://www.researchgate.net/publication/276511609_FPGA_Implementation_of_Decision_Trees_and_Tree_Ensembles_for_Character_Recognition_in_Vivado_Hls
+
