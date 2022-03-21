@@ -1,6 +1,6 @@
 # RandomForestAccelerator
 
-!(https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-forest/img-3.png)
+![alt text](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-forest/img-3.png)
 
 ## Requirements
 * **GHDL**
