@@ -1,6 +1,6 @@
 # RandomForestAccelerator
 
-![alt text](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-forest/img-3.png)
+![Screenshot](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-forest/img-3.png)
 
 ## Requirements
 * **GHDL**
@@ -42,8 +42,8 @@ After this you just have to compile the test benches you want to use. For exampl
 
 ## References
 
-1. FP-BNN:  Binarized  neural  network  on  FPGA  
-  https://www.sciencedirect.com/science/article/abs/pii/S0925231217315655
+1. scikit-learn for Random Forest Classifier 
+  https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 2. Stochastic Computing for Hardware Implementationof Binarized Neural Networks  
   https://arxiv.org/abs/1906.00915
