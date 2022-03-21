@@ -6,6 +6,7 @@ https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-
 * **GHDL**
 * **GTKWave**
 * **VHDL**
+* **PYTHON**
 
 ## Quick Instruction
 
@@ -22,7 +23,8 @@ https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/random-
       $ ghdl -r test_file --vcd=testbench.vcd  #VCD-Dump  
       $ gtkwave testbench.vcd                  #Start GTKWave  
 
-Also you can compile and look on wave diagrams in GTKWave with command  
+there are two options to compile and run the project. either use VIVADO IDE or compile and run on GTK WAVE. either ways you have to have
+VHDL 2008-recent Version for the design to run.
   
       $ bash script.sh test_file.vhdl test_file_testbench.vhdl  
  
