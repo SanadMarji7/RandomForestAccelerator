@@ -48,7 +48,7 @@ if you have vhdl version 08 or higher you dont need the extra "--std=08" to comp
       $ ./script RF_tb
       
 
-also note that the random-forest.txt file should be in the same folder as all other vhdl files in order for it to run.
+also note that the "random-forest.txt" file should be in the same folder as all other vhdl files in order for it to run.
 
 ## References
 
