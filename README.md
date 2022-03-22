@@ -25,25 +25,21 @@
 
 there are two options to compile and run the project. either use VIVADO IDE or compile and run on GTK WAVE. either ways you have to have
 VHDL 2008-recent Version for the design to run.
-  
-      $ bash script.sh test_file.vhdl test_file_testbench.vhdl  
- 
-Last file must be **testbench** !!! 
-
+   
 ### compiling the project
 to compile the files of the project run the following commands:
-ghdl -s --std=08 majorityVote.vhd
-ghdl -a --std=08 majorityVote.vhd
-ghdl -s --std=08 DT.vhd
-ghdl -a --std=08 DT.vhd
-ghdl -s --std=08 DT_memory.vhd
-ghdl -a --std=08 DT_memory.vhd
-ghdl -s --std=08 node.vhd
-ghdl -a --std=08 node.vhd
-ghdl -s --std=08 Random_Forest_accelerator.vhd
-ghdl -a --std=08 Random_Forest_accelerator.vhd
-ghdl -s --std=08 Comparator.vhdl
-ghdl -a --std=08 Comparator.vhdl
+$ ghdl -s --std=08 majorityVote.vhd
+$ ghdl -a --std=08 majorityVote.vhd
+$ ghdl -s --std=08 DT.vhd
+$ ghdl -a --std=08 DT.vhd
+$ ghdl -s --std=08 DT_memory.vhd
+$ ghdl -a --std=08 DT_memory.vhd
+$ ghdl -s --std=08 node.vhd
+$ ghdl -a --std=08 node.vhd
+$ ghdl -s --std=08 Random_Forest_accelerator.vhd
+$ ghdl -a --std=08 Random_Forest_accelerator.vhd
+$ ghdl -s --std=08 Comparator.vhdl
+$ ghdl -a --std=08 Comparator.vhdl
 
 if you have vhdl version 08 or higher you dont need the extra "--std=08" to compile.
 
