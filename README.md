@@ -43,8 +43,8 @@ VHDL 2008-recent Version for the design to run.
       
 if you have vhdl version 08 or higher you dont need the extra "--std=08" to compile.
 
-After compiling all the files run the script using the following command:
-please note that script should be in same folder as the testbench.
+### After compiling all the files run the script using the following command:
+      please note that script should be in same folder as the testbench.
       $ ./script RF_tb
       
 
