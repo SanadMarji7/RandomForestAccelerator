@@ -27,7 +27,7 @@ there are two options to compile and run the project. either use VIVADO IDE or c
 VHDL 2008-recent Version for the design to run.
    
 ### compiling the project
-to compile the files of the project run the following commands:
+      to compile the files of the project run the following commands:
       $ ghdl -s --std=08 majorityVote.vhd
       $ ghdl -a --std=08 majorityVote.vhd
       $ ghdl -s --std=08 DT.vhd
