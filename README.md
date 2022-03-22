@@ -30,15 +30,26 @@ VHDL 2008-recent Version for the design to run.
  
 Last file must be **testbench** !!! 
 
-### auto compiling the project
-In the compile folder is a script to compile all the components automatically. You can use it like this:
+### compiling the project
+to compile the files of the project run the following commands:
+ghdl -s --std=08 majorityVote.vhd
+ghdl -a --std=08 majorityVote.vhd
+ghdl -s --std=08 DT.vhd
+ghdl -a --std=08 DT.vhd
+ghdl -s --std=08 DT_memory.vhd
+ghdl -a --std=08 DT_memory.vhd
+ghdl -s --std=08 node.vhd
+ghdl -a --std=08 node.vhd
+ghdl -s --std=08 Random_Forest_accelerator.vhd
+ghdl -a --std=08 Random_Forest_accelerator.vhd
+ghdl -s --std=08 Comparator.vhdl
+ghdl -a --std=08 Comparator.vhdl
 
-      $ cd compile
-      $ bash auto_compile.sh
+if you have vhdl version 08 or higher you dont need the extra "--std=08" to compile.
 
-After this you just have to compile the test benches you want to use. For example like this (you should still be in the compile folder):
-
-      $ bash script.sh ../BNNA/tb_presentation.vhdl
+After compiling all the files run the script using the following command:
+please note that script should be in same folder as the testbench.
+      $ ./script RF_tb
 
 ## References
 
